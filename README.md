@@ -1,4 +1,4 @@
-![Untitled](https://user-images.githubusercontent.com/112481574/199499262-05218eb7-7e0f-4fd7-a8b9-c7a004e6b39f.jpg)
+![1625666712318](https://user-images.githubusercontent.com/112481574/204470276-5c8d2392-3109-4e54-bb3a-5bdc57dcacc3.jpg)
 
 <h1 align="center">Hi 👋, I'm Ali Obeid</h1>
 <h3 align="center">Junior Full Stack Developer</h3>
