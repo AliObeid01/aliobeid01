@@ -1,7 +1,7 @@
 ![1625666712318](https://user-images.githubusercontent.com/112481574/204470276-5c8d2392-3109-4e54-bb3a-5bdc57dcacc3.jpg)
 
 <h1 align="center">Hi 👋, I'm Ali Obeid</h1>
-<h3 align="center">Junior Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliobeid01&label=Profile%20views&color=0e75b6&style=flat" alt="aliobeid01" /> </p>
 
