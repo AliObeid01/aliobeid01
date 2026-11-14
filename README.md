@@ -28,6 +28,7 @@ I build business software end to end: the database, the API, and the screens peo
 | **[Maw3ed](https://maw3edlb.com)** | Appointment booking platform for clinics, salons and barbers | Live product |
 | **[mini-crm](https://github.com/AliObeid01/mini-crm)** | CRM with contacts and departments, Sanctum auth, AJAX search, filtering and pagination | Laravel 12, MySQL, Bootstrap, JavaScript |
 | **[dynamic-classified-api](https://github.com/AliObeid01/dynamic-classified-api)** | REST API for classified ads where each category defines its own custom fields | Laravel, Sanctum, MySQL |
+| **[food-bae](https://github.com/AliObeid01/food-bae)** | Responsive restaurant website with a [live demo](https://food-bae-lb.vercel.app/) | React, Vite, Tailwind CSS, Framer Motion |
 | **[task_managment](https://github.com/AliObeid01/task_managment)** | Task management web app to create, edit and track tasks | Next.js 13, Node.js, Express, MongoDB |
 | **[admin-users-roles](https://github.com/AliObeid01/admin-users-roles)** | Admin panel with user registration, approval, roles, certificates and reports | PHP |
 | **[FootballRave](https://github.com/AliObeid01/FootballRave)** | Football app with live scores, stats and storylines | JavaScript |
